@@ -28,7 +28,7 @@ You can find me coding away at the IT Park in Tashkent, where the future of Uzbe
 
 ## 📫 How to reach me ...
 - 📧 Email me at dendigiden676@gmail.com
-- 💬 Message me on Telegram: [@masomOBITO](https://t.me/masomOBITO)
+- 💬 Message me on Telegram: [@nnFROWNING](https://t.me/nnFROWNING)
 
 ## 📺 Latest Anime Watched
 I believe anime has a lot to teach us about life, creativity, and even coding. Feel free to ask me for recommendations!
