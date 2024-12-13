@@ -8,7 +8,7 @@
 </p>
 
 ## About Me
-I'm a 21-year-old student from Uzbekistan with a deep passion for technology, coding, and all things AI. Currently, I'm honing my skills in neural networks and cybersecurity, eagerly tackling challenges in authentication and security. When I'm not buried in code, you can find me diving into the world of anime or savoring a good beer.
+I'm a 22-year-old student from Uzbekistan with a deep passion for technology, coding, and all things AI. Currently, I'm honing my skills in neural networks and cybersecurity, eagerly tackling challenges in authentication and security. When I'm not buried in code, you can find me diving into the world of anime or savoring a good beer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
