@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Amal 👋</h1>
+<h1 align="center">Hi there, I'm FROWNING 👋</h1>
 
 <h2 align="center">🍺 Beer Lover | 📚 KIUT Student | 👨‍💻 Tech Enthusiast | 🌐 Aspiring IT Professional</h2>
 
