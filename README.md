@@ -15,7 +15,7 @@ I’m currently building full-stack applications at the IT Park in Tashkent, whe
 
 📫 How to reach me ...
 📧 Email me at dendigiden676@gmail.com
-💬 Message me on Telegram: @nnFROWNING
+💬 Message me on Telegram: @FROWNINGnrx
 📺 Latest Anime Watched
 Anime offers a lot of life lessons, and I enjoy it as a source of inspiration and creativity. Feel free to ask me for recommendations!
 
