@@ -1,10 +1,13 @@
-
-![My Banner](https://github.com/FROWNINGnrx/FROWNINGnrx/blob/main/static/IMG_5173.jpg)
-
-
 <h1 align="center">Hi there, I'm Amal 👋</h1>
 
 <h2 align="center">🍺 Beer Lover | 📚 KIUT Student | 👨‍💻 Tech Enthusiast | 🌐 Aspiring IT Professional</h2>
+
+<!-- Banner Image as a YouTube-like banner -->
+<p align="center">
+  <a href="https://github.com/FROWNINGnrx">
+    <img src="https://github.com/FROWNINGnrx/FROWNINGnrx/raw/main/static/IMG_5173.jpg" alt="My Banner" width="100%" style="max-width: 2560px; height: auto;"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/FROWNINGnrx"><img src="https://img.shields.io/github/followers/FROWNINGnrx?label=Follow&style=social" alt="GitHub"></a>
