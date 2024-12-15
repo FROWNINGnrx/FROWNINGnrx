@@ -1,3 +1,6 @@
+
+![My Banner](https://path-to-your-banner-image.com/banner.jpg)
+
 <h1 align="center">Hi there, I'm Amal 👋</h1>
 
 <h2 align="center">🍺 Beer Lover | 📚 KIUT Student | 👨‍💻 Tech Enthusiast | 🌐 Aspiring IT Professional</h2>
