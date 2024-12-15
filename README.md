@@ -1,5 +1,5 @@
 
-![My Banner](https://path-to-your-banner-image.com/banner.jpg)
+![My Banner](https://https://github.com/FROWNINGnrx/FROWNINGnrx/blob/main/static/IMG_5173.jpg)
 
 <h1 align="center">Hi there, I'm Amal 👋</h1>
 
